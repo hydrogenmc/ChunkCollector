@@ -21,4 +21,10 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+  <repositories>
+      <repository>
+      <id>papermc-repo</id>
+      <url>https://repo.papermc.io/repository/maven-public/</url>
+      </repoepository>
+    </repositories>
 </project>
