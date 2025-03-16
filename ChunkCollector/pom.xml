@@ -14,7 +14,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  
     <dependency>
       <groupId>io.papermc.paper</groupId>
       <artifactId>paper-api</artifactId>
@@ -22,3 +21,4 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+<project>
